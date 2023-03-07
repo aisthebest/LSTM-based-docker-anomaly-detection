@@ -1,8 +1,6 @@
 # LSTM-based-docker-anomaly-detection
-## 作者
-    王玉龙 中国工程物理研究院计算机应用研究所/四川大学网络空间安全研究院
-    email：wangyulong@caep.cn
-    
+
+ 
 ## 1、文件说明
     
     strace是数据采集程序
